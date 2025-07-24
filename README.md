@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm GoSwimmy</h1>
 <h3 align="center">Freelancer</h3>
 
-- 🔭 I’m currently working on MineWave
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/GoSwimmy?tab=repositories)
 
 
